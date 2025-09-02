@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\Semana 3 MF\FUNDAMENTO DE ALGORITMOS\Semana 3 - FA\bin\Debug\Semana 3 - FA.exe.config
+C:\Users\UPN\Desktop\Semana 3 MF\FUNDAMENTO DE ALGORITMOS\Semana 3 - FA\bin\Debug\Semana 3 - FA.exe
+C:\Users\UPN\Desktop\Semana 3 MF\FUNDAMENTO DE ALGORITMOS\Semana 3 - FA\bin\Debug\Semana 3 - FA.pdb
+C:\Users\UPN\Desktop\Semana 3 MF\FUNDAMENTO DE ALGORITMOS\Semana 3 - FA\obj\Debug\Semana 3 - FA.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Semana 3 MF\FUNDAMENTO DE ALGORITMOS\Semana 3 - FA\obj\Debug\Semana 3 - FA.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Semana 3 MF\FUNDAMENTO DE ALGORITMOS\Semana 3 - FA\obj\Debug\Semana 3 - FA.exe
+C:\Users\UPN\Desktop\Semana 3 MF\FUNDAMENTO DE ALGORITMOS\Semana 3 - FA\obj\Debug\Semana 3 - FA.pdb
+C:\Users\UPN\Desktop\Semana 3 MF\FUNDAMENTO DE ALGORITMOS\Semana 3 - FA\obj\Debug\Semana 3 - FA.exe.config
