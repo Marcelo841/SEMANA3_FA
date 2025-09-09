@@ -10,7 +10,7 @@ namespace Semana_3___FA
     {
         static void Main(string[] args)
         {
-            ejer1();
+            ejer2();
             Console.ReadKey();
         }
 
@@ -25,7 +25,7 @@ namespace Semana_3___FA
         }
         static void ejer2()
         {
-
+            Console.WriteLine("\"Marcelo\"");
         }
         static void ejer3()
         {

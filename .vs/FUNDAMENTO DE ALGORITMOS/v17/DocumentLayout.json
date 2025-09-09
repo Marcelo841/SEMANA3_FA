@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\Semana 3 MF\\FUNDAMENTO DE ALGORITMOS\\",
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\FA_SEMANA4 MF\\SEMANA 4 MF\\SEMANA3_FA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F792AD48-8364-4A83-9463-156DA63B7F9F}|Semana3_Python\\Semana3_Python.pyproj|C:\\Users\\UPN\\Desktop\\Semana 3 MF\\FUNDAMENTO DE ALGORITMOS\\Semana3_Python\\Semana3_Python.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{F792AD48-8364-4A83-9463-156DA63B7F9F}|Semana3_Python\\Semana3_Python.pyproj|C:\\Users\\UPN\\Desktop\\FA_SEMANA4 MF\\SEMANA 4 MF\\SEMANA3_FA\\Semana3_Python\\Semana3_Python.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{F792AD48-8364-4A83-9463-156DA63B7F9F}|Semana3_Python\\Semana3_Python.pyproj|solutionrelative:Semana3_Python\\Semana3_Python.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9CCAD165-853D-4740-B6D2-F20A7789FF58}|Semana 3 - FA\\Semana 3 - FA.csproj|c:\\users\\upn\\desktop\\semana 3 mf\\fundamento de algoritmos\\semana 3 - fa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9CCAD165-853D-4740-B6D2-F20A7789FF58}|Semana 3 - FA\\Semana 3 - FA.csproj|C:\\Users\\UPN\\Desktop\\FA_SEMANA4 MF\\SEMANA 4 MF\\SEMANA3_FA\\semana 3 - fa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9CCAD165-853D-4740-B6D2-F20A7789FF58}|Semana 3 - FA\\Semana 3 - FA.csproj|solutionrelative:semana 3 - fa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,21 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Semana3_Python.py",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Semana 3 MF\\FUNDAMENTO DE ALGORITMOS\\Semana3_Python\\Semana3_Python.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FA_SEMANA4 MF\\SEMANA 4 MF\\SEMANA3_FA\\Semana3_Python\\Semana3_Python.py",
               "RelativeDocumentMoniker": "Semana3_Python\\Semana3_Python.py",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\Semana 3 MF\\FUNDAMENTO DE ALGORITMOS\\Semana3_Python\\Semana3_Python.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\FA_SEMANA4 MF\\SEMANA 4 MF\\SEMANA3_FA\\Semana3_Python\\Semana3_Python.py",
               "RelativeToolTip": "Semana3_Python\\Semana3_Python.py",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2025-09-02T16:26:50.797Z",
               "EditorCaption": ""
@@ -41,11 +37,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\Semana 3 MF\\FUNDAMENTO DE ALGORITMOS\\Semana 3 - FA\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\FA_SEMANA4 MF\\SEMANA 4 MF\\SEMANA3_FA\\Semana 3 - FA\\Program.cs",
               "RelativeDocumentMoniker": "Semana 3 - FA\\Program.cs",
-              "ToolTip": "C:\\Users\\UPN\\Desktop\\Semana 3 MF\\FUNDAMENTO DE ALGORITMOS\\Semana 3 - FA\\Program.cs",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\FA_SEMANA4 MF\\SEMANA 4 MF\\SEMANA3_FA\\Semana 3 - FA\\Program.cs",
               "RelativeToolTip": "Semana 3 - FA\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAtwCQAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-02T16:03:01.116Z",
               "EditorCaption": ""
