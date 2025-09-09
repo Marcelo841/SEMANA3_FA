@@ -10,7 +10,7 @@ namespace Semana_3___FA
     {
         static void Main(string[] args)
         {
-            ejer2();
+            ejer3();
             Console.ReadKey();
         }
 
@@ -29,12 +29,17 @@ namespace Semana_3___FA
         }
         static void ejer3()
         {
-            int num1, num2;
-            Console.Write("Ingrese el primer numero entero");
-            num1 = int.Parse(Console.ReadLine());
-            Console.Write("Ingrese el segundo numero entero");
-            num2 = int.Parse(Console.ReadLine());
             
+            int num1, num2;
+            Console.Write("Ingrese el primer numero entero ");
+            num1 = int.Parse(Console.ReadLine());
+            Console.Write("Ingrese el segundo numero entero ");
+            num2 = int.Parse(Console.ReadLine());
+            double divi = (double)num1 / (double)num2;
+            Console.WriteLine("Suma: " +(num1+num2));
+            Console.WriteLine("Resta: " + (num1 - num2));
+            Console.WriteLine("Multiplicacion: " + (num1 * num2));
+            Console.WriteLine("Division: " + divi);
 
         }
         static void ejer4()
