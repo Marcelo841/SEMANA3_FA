@@ -10,7 +10,7 @@ namespace Semana_3___FA
     {
         static void Main(string[] args)
         {
-            ejer3();
+            ejer5();
             Console.ReadKey();
         }
 
@@ -44,12 +44,30 @@ namespace Semana_3___FA
         }
         static void ejer4()
         {
+            Console.Write("Ingrese un numero decimal: ");
+            double num =double.Parse(Console.ReadLine());
 
+            double raiz = Math.Sqrt(num);
+            double redo = Math.Round(num,2);
+            double cubo = Math.Pow(num,3);
+            double cubica = Math.Pow(num, 1/3);
+
+            Console.WriteLine("\nRaiz cuadrada: " + raiz);
+            Console.WriteLine("Redondeado: " + redo);
+            Console.WriteLine("Elevado a 3: " + cubo);
+            Console.WriteLine("Raiz cubica: " + cubica);
         }
         static void ejer5()
         {
+            Console.WriteLine("Ingrese un numero: ");
+            string num = Console.ReadLine();
 
+            int entero = int.Parse(num);
+            double deci = double.Parse(num);
+
+            Console.WriteLine("Resto: " +(entero)
         }
+
         static void ejer6()
         {
 
